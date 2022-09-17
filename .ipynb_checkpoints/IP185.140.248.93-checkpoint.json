@@ -1,0 +1,303 @@
+{
+    "messages": [
+        [
+            "info",
+            "IP address has been converted to a prefix"
+        ]
+    ],
+    "see_also": [],
+    "version": "4.1",
+    "data_call_name": "whois",
+    "data_call_status": "supported - connecting to ursa",
+    "cached": false,
+    "data": {
+        "records": [
+            [
+                {
+                    "key": "inetnum",
+                    "value": "185.140.248.0/23",
+                    "details_link": "https://stat.ripe.net/185.140.248.0/23"
+                },
+                {
+                    "key": "netname",
+                    "value": "BUZINESSWARE-UAE",
+                    "details_link": null
+                },
+                {
+                    "key": "descr",
+                    "value": "Buzinessware FZCO",
+                    "details_link": null
+                },
+                {
+                    "key": "country",
+                    "value": "AE",
+                    "details_link": null
+                },
+                {
+                    "key": "geoloc",
+                    "value": "25.026368 55.186865",
+                    "details_link": null
+                },
+                {
+                    "key": "org",
+                    "value": "ORG-SITA8-RIPE",
+                    "details_link": null
+                },
+                {
+                    "key": "admin-c",
+                    "value": "BH3467-RIPE",
+                    "details_link": "https://rest.db.ripe.net/ripe/person-role/BH3467-RIPE"
+                },
+                {
+                    "key": "tech-c",
+                    "value": "BH3467-RIPE",
+                    "details_link": "https://rest.db.ripe.net/ripe/person-role/BH3467-RIPE"
+                },
+                {
+                    "key": "abuse-c",
+                    "value": "BH3467-RIPE",
+                    "details_link": null
+                },
+                {
+                    "key": "status",
+                    "value": "ASSIGNED PA",
+                    "details_link": null
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "MNT-BUZINESSWARE",
+                    "details_link": "https://rest.db.ripe.net/ripe/mntner/MNT-BUZINESSWARE"
+                },
+                {
+                    "key": "created",
+                    "value": "2018-06-22T10:27:23Z",
+                    "details_link": null
+                },
+                {
+                    "key": "last-modified",
+                    "value": "2020-04-22T05:22:34Z",
+                    "details_link": null
+                },
+                {
+                    "key": "source",
+                    "value": "RIPE",
+                    "details_link": null
+                }
+            ]
+        ],
+        "irr_records": [
+            [
+                {
+                    "key": "route",
+                    "value": "185.140.248.0/24",
+                    "details_link": "https://stat.ripe.net/185.140.248.0/24"
+                },
+                {
+                    "key": "descr",
+                    "value": "Buzinessware FZCO",
+                    "details_link": null
+                },
+                {
+                    "key": "origin",
+                    "value": "60140",
+                    "details_link": "https://stat.ripe.net/AS60140"
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "MNT-Anoop",
+                    "details_link": "https://rest.db.ripe.net/ripe/mntner/MNT-Anoop"
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "ae-tapri-1-mnt",
+                    "details_link": "https://rest.db.ripe.net/ripe/mntner/ae-tapri-1-mnt"
+                },
+                {
+                    "key": "created",
+                    "value": "2016-03-03T11:53:27Z",
+                    "details_link": null
+                },
+                {
+                    "key": "last-modified",
+                    "value": "2016-03-03T13:24:11Z",
+                    "details_link": null
+                },
+                {
+                    "key": "source",
+                    "value": "RIPE",
+                    "details_link": null
+                }
+            ],
+            [
+                {
+                    "key": "route",
+                    "value": "185.140.248.0/24",
+                    "details_link": "https://stat.ripe.net/185.140.248.0/24"
+                },
+                {
+                    "key": "descr",
+                    "value": "Buzinessware FZCO",
+                    "details_link": null
+                },
+                {
+                    "key": "origin",
+                    "value": "60140",
+                    "details_link": "https://stat.ripe.net/AS60140"
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "MNT-Anoop",
+                    "details_link": null
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "ae-tapri-1-mnt",
+                    "details_link": null
+                },
+                {
+                    "key": "created",
+                    "value": "2016-03-03T11:53:27Z",
+                    "details_link": null
+                },
+                {
+                    "key": "last-modified",
+                    "value": "2016-03-03T13:24:11Z",
+                    "details_link": null
+                },
+                {
+                    "key": "source",
+                    "value": "RIPE",
+                    "details_link": null
+                },
+                {
+                    "key": "remarks",
+                    "value": "* THIS OBJECT IS MODIFIED",
+                    "details_link": null
+                },
+                {
+                    "key": "remarks",
+                    "value": "* Please note that all data that is generally regarded as personal",
+                    "details_link": null
+                },
+                {
+                    "key": "remarks",
+                    "value": "* data has been removed from this object.",
+                    "details_link": null
+                },
+                {
+                    "key": "remarks",
+                    "value": "* To view the original object, please query the RIPE Database at:",
+                    "details_link": null
+                },
+                {
+                    "key": "remarks",
+                    "value": "* http://www.ripe.net/whois",
+                    "details_link": null
+                }
+            ],
+            [
+                {
+                    "key": "route",
+                    "value": "185.140.248.0/24",
+                    "details_link": "https://stat.ripe.net/185.140.248.0/24"
+                },
+                {
+                    "key": "descr",
+                    "value": "CMI IP Transit",
+                    "details_link": null
+                },
+                {
+                    "key": "origin",
+                    "value": "60140",
+                    "details_link": "https://stat.ripe.net/AS60140"
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "MAINT-CMI-INT-HK",
+                    "details_link": null
+                },
+                {
+                    "key": "source",
+                    "value": "NTTCOM",
+                    "details_link": null
+                }
+            ],
+            [
+                {
+                    "key": "route",
+                    "value": "185.140.248.0/24",
+                    "details_link": "https://stat.ripe.net/185.140.248.0/24"
+                },
+                {
+                    "key": "descr",
+                    "value": "Du via EMIX",
+                    "details_link": null
+                },
+                {
+                    "key": "origin",
+                    "value": "15802",
+                    "details_link": "https://stat.ripe.net/AS15802"
+                },
+                {
+                    "key": "notify",
+                    "value": "noc@emix.net.ae",
+                    "details_link": null
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "MAINT-AS8966",
+                    "details_link": null
+                },
+                {
+                    "key": "source",
+                    "value": "RADB",
+                    "details_link": null
+                }
+            ],
+            [
+                {
+                    "key": "route",
+                    "value": "185.140.248.0/24",
+                    "details_link": "https://stat.ripe.net/185.140.248.0/24"
+                },
+                {
+                    "key": "descr",
+                    "value": "ZAIN via EMIX",
+                    "details_link": null
+                },
+                {
+                    "key": "origin",
+                    "value": "60140",
+                    "details_link": "https://stat.ripe.net/AS60140"
+                },
+                {
+                    "key": "notify",
+                    "value": "noc@emix.net.ae",
+                    "details_link": null
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "MAINT-AS8966",
+                    "details_link": null
+                },
+                {
+                    "key": "source",
+                    "value": "RADB",
+                    "details_link": null
+                }
+            ]
+        ],
+        "authorities": [
+            "ripe"
+        ],
+        "resource": "185.140.248.93",
+        "query_time": "2022-02-27T11:28:00"
+    },
+    "query_id": "20220227112827-148f8c28-3b96-4f9a-bd0c-845e07826212",
+    "process_time": 566,
+    "server_id": "app131",
+    "build_version": "live.2022.2.24.79",
+    "status": "ok",
+    "status_code": 200,
+    "time": "2022-02-27T11:28:27.605541"
+}
